@@ -1,1 +1,5 @@
-echo "welcome to the Jenkins Hell"
+echo "welcome to the Jenkins Hell 😒"
+echo "User : $(whomi)"
+echo "Hostname : $(hostname)"
+echo "Current Directory : $(pwd) "
+echo "Date : $(date)"
